@@ -1,1 +1,1 @@
-#Elaborar um algoritmo que permita a divisão de um arquivo PDF oferecendo as opções de dividir em intervalo de páginas, ou em tamanho máximo do arquivo.
+# Elaborar um algoritmo que permita a divisão de um arquivo PDF oferecendo as opções de dividir em intervalo de páginas, ou em tamanho máximo do arquivo.
